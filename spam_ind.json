@@ -1,0 +1,42 @@
+[
+  {
+    "couple_id": "14137802332_14137802333",
+    "account1": {
+      "uid": 4345044282,
+      "password": "RASHID707_B0N2V_BY_SPIDEERIO_GAMING_2GHIZ",
+      "account_id": "14137802332",
+      "name": "RACKFF⁶⁵²⁹⁰",
+      "thread_id": 1
+    },
+    "account2": {
+      "uid": 4345044283,
+      "password": "RASHID707_F1B1J_BY_SPIDEERIO_GAMING_HPQPT",
+      "account_id": "14137802333",
+      "name": "RACKFF⁹²¹⁴⁷",
+      "thread_id": 2
+    },
+    "reason": "Sequential Account IDs: 14137802332 & 14137802333",
+    "region": "IND",
+    "date_matched": "2025-12-16 20:23:44"
+  },
+  {
+    "couple_id": "14137819946_14137807054",
+    "account1": {
+      "uid": 4345047788,
+      "password": "RASHID707_8FRA1_BY_SPIDEERIO_GAMING_8Z07W",
+      "account_id": "14137819946",
+      "name": "RACKFF²⁶⁵⁶⁵",
+      "thread_id": 3
+    },
+    "account2": {
+      "uid": 4345045218,
+      "password": "RASHID707_J7ZB9_BY_SPIDEERIO_GAMING_W3QVL",
+      "account_id": "14137807054",
+      "name": "RACKFF⁴⁷⁸⁶⁴",
+      "thread_id": 3
+    },
+    "reason": "Complementary sum: 14137819946 + 14137807054 = 28275627000",
+    "region": "IND",
+    "date_matched": "2025-12-16 20:26:35"
+  }
+]
